@@ -1,0 +1,150 @@
+.body{
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    height: 100%;
+    width: 100%;
+}
+
+
+.button_menu {
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    font-size: 27px;
+    padding: 10px;
+    height: 60px;
+    align-items: center;
+    background: #2f2e2e;
+    display: flex;
+    justify-content: space-between;
+    margin: -9px;
+    width: 100%;
+   
+     
+}
+
+.phone_number{
+    display: -webkit-flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 18px;
+    text-decoration: none;
+   
+}
+
+.logo{
+    width: 65px;
+    height: 65px;
+    margin: -10px;
+    margin-top: -20px;
+    
+}
+.phone_number_k_img
+{
+    width 18px;
+    height: 18px;
+}
+.phone_number_v_img
+{
+   width 18px;
+height: 18px;
+} 
+
+  A {
+    color: white; 
+   }
+   A:visited {
+    color: white; 
+   }
+   A:active {
+    color: white; 
+   }
+.text{
+    width: 100%;
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    background: #545463;
+    font-size: 16px;
+    padding: 10px;
+    height: 55px;
+    margin: -9px;
+}
+
+.a{
+    justify-content: center;
+    display: -webkit-flex;
+    
+}
+
+.b{
+    display: flex;
+   
+  justify-content: space-around;
+    font-size: 10px;
+    margin: 12px;
+    height: 700px;
+     
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    
+    }
+
+    .section_1{
+        background: #bdbcd1;
+        display: flex;
+    align-items: center;
+    border-radius: 8px;
+    font-size: 12px;
+    margin: 20px;
+    height: 260px;
+    width: 480px;
+    border: 5px solid gray ; 
+   
+    }
+.photo{ 
+    display: flex;
+    flex-direction: column;
+    
+    
+}
+.img_1{
+    margin-left: 0%;
+    margin-top: 0%;
+    height: 130px;
+    width: 130px;
+}
+.img_2{
+    margin-left: -0%;
+    margin-top: 0%;
+    height: 130px;
+    width: 130px;
+}
+.text_section{
+    margin-top: -10%;
+    margin-left: 4%;
+    margin-right: auto;
+    width: 24em;
+    font-family: 'Comfortaa', cursive;
+}
+
+.footer{
+    font-family: 'Comfortaa', cursive;
+    color: white;
+    font-size: 27px;
+    padding: 10px;
+    height: 60px;
+    align-items: center;
+    background: #2f2e2e;
+    display: flex;
+    justify-content: space-between;
+    margin: -9px;
+    width: 100%;
+    text-align: center;
+}
+.title{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: auto;
+    width: 24em;
+    margin-bottom: 10%;
+}
